@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'selenium-webdriver'
+gem 'cucumber', '3.1.2'
+gem 'test-unit'
+gem 'parallel_tests', '2.32.0'
